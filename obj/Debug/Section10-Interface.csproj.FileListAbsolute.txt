@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\bin\Debug\Section10-Interface.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\bin\Debug\Section10-Interface.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\bin\Debug\Section10-Interface.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\obj\Debug\Section10-Interface.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\obj\Debug\Section10-Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\obj\Debug\Section10-Interface.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\obj\Debug\Section10-Interface.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Interface\Section10-Interface\obj\Debug\Section10-Interface.pdb
